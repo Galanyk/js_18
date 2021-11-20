@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    background-image: url(../js_18/image/disney.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20px;
+}
